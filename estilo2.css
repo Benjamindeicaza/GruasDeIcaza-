@@ -1,0 +1,97 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background-image: url(servicios.jpg);
+    background-repeat: no-repeat;
+    background-size: 1250px;
+
+}
+h1 {
+    text-align: center;
+    background-color: #fff;
+    color: black;
+    padding: 30px;
+}
+h2 {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: burlywood;
+    padding: 4%;
+    font-size: 200%;
+}
+h3 {
+    background-color: #fff;
+    color: black;
+    font-size: 170%;
+    padding: 2%;
+    text-align: center;
+}
+table {
+    border: black 1px;
+    padding: 5px;
+    
+}
+td {
+    border: 2px black;
+}
+tr {
+    border: black 1px;
+}
+thead {
+    background: black;
+    color: burlywood;
+}
+tbody {
+    background: #fff;
+}
+
+
+
+h4 {
+    text-align: center;
+    font-size: 400%;
+    background-color: #fff;
+    padding: 2%;
+    color: black;
+}
+h5 { 
+    text-align: center;
+    background-color: #fff;
+    padding: 2%;
+    color: black;
+}
+p {
+    text-align: center;
+    color: burlywood;
+    font-size: 140%;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 4%;
+    
+}
+nav ul {
+    background-color: black;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+
+}
+nav li {
+    display: inline-flex;
+}
+nav a {
+    text-decoration: none;
+    color: mintcream;
+    padding: 10px;
+    width: 150px;
+}
+nav li:hover {
+    background-color: burlywood;
+
+}
+
+
+
+
+

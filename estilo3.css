@@ -1,0 +1,87 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+body {
+    background-image: url(contacta.jpg);
+    background-repeat: no-repeat;
+    background-size: 1250px;
+}
+h1 {
+    text-align: center;
+    background-color: #fff;
+    color: black;
+    padding: 30px;
+
+}
+h2 {
+    color: burlywood;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-size: 1250px;
+    text-align: center;
+    font-size: 400%;
+    padding: 2%;
+}
+h3 { 
+    padding: 0%;
+    font-size: 200%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: burlywood;
+}
+h5 { 
+    padding: 0px;
+    color: burlywood;
+    font-size: 150%;
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+}
+h6 {
+    text-align: center;
+    padding: 0px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+input#boton {
+    padding: 2px 40px;
+    color: #fff;
+    background-color: #5dade2;
+    border: 0px;
+   
+
+}
+
+p {
+    color:burlywood;
+    background-color: rgba(0, 0, 0, 0.6) ;
+    text-align: center;
+    font-size: 200%;
+
+}
+
+nav ul {
+    background-color: black;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+nav li {
+    display: inline-flex;
+}
+nav a {
+    text-decoration: none;
+    color: mintcream;
+    padding: 10px;
+    width: 150px;
+}
+.formulario input[type="checkbox"] {
+    background-color: burlywood;
+    display: none;
+    color: burlywood;
+    text-align: center;
+    font-size: 150%;
+ }
+nav li:hover {
+    background-color: burlywood;
+
+}
